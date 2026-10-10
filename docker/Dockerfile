@@ -5,7 +5,7 @@
 # platform-specific native binaries, and the lockfile generated on this
 # glibc host only pulls the "-gnu" variant, not the "-musl" one Alpine
 # needs. Slim avoids the whole glibc/musl split.
-FROM node:22-slim AS base
+FROM node:25-slim AS base
 WORKDIR /app
 RUN apt-get update -y && apt-get install -y --no-install-recommends openssl \
   && rm -rf /var/lib/apt/lists/*
