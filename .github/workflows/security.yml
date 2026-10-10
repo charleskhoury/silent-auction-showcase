@@ -15,7 +15,7 @@ jobs:
     name: Secret scan (gitleaks)
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0 # full history so the scan covers every commit
       - name: Run gitleaks
@@ -27,7 +27,7 @@ jobs:
     name: Image vulnerability scan (Trivy)
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Build image for scanning
         run: docker build -t silent-auction-showcase:scan -f docker/Dockerfile .
       - name: Scan image
@@ -48,7 +48,7 @@ jobs:
       actions: read
       contents: read
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
         with:
