@@ -1,0 +1,115 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum ItemStatus {
+  DRAFT // hidden from the public page; still being set up
+  OPEN // accepting bids
+  CLOSED // bidding finished; winner is the highest bid (or the declared one)
+}
+
+model Item {
+  id          String     @id @default(cuid())
+  title       String
+  description String     @db.Text
+  // Image bytes live in the DB (not the filesystem) so photos survive a
+  // container rebuild/restart without a bind-mounted uploads volume. Only
+  // two items — the size cost is trivial, the operational simplicity is not.
+  imageData   Bytes?
+  imageType   String?
+
+  startingPriceCents Int        @default(0)
+  minIncrementCents  Int        @default(500)
+  status             ItemStatus @default(DRAFT)
+
+  // Optional soft deadline. When set and passed, the server rejects new bids
+  // even if status is still OPEN. antiSnipeSeconds > 0 extends closeAt by that
+  // many seconds whenever a valid bid lands inside the final window.
+  closeAt         DateTime?
+  antiSnipeSeconds Int      @default(0)
+
+  displayOrder Int @default(0)
+
+  // Set when an admin declares a winner. Defaults to the highest bid, but can
+  // be overridden (e.g. the top bidder withdraws).
+  winnerBidId String? @unique
+  winnerBid   Bid?    @relation("WinnerBid", fields: [winnerBidId], references: [id], onDelete: SetNull)
+
+  bids Bid[] @relation("ItemBids")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([status])
+  @@index([displayOrder])
+}
+
+model Bidder {
+  id        String   @id @default(cuid())
+  name      String
+  // Normalised to digits only; unique so a returning guest reclaims the same
+  // identity from any device with their PIN.
+  mobile    String   @unique
+  pinHash   String
+  // When true, the public leaderboard shows "Anonymous" instead of this
+  // bidder's (masked) name. Admins always see the real name + mobile.
+  anonymous Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  bids Bid[]
+
+  @@index([mobile])
+}
+
+model Bid {
+  id         String   @id @default(cuid())
+  itemId     String
+  item       Item     @relation("ItemBids", fields: [itemId], references: [id], onDelete: Cascade)
+  bidderId   String
+  bidder     Bidder   @relation(fields: [bidderId], references: [id], onDelete: Cascade)
+  amountCents Int
+  createdAt  DateTime @default(now())
+
+  wonItem Item? @relation("WinnerBid")
+
+  @@index([itemId, amountCents])
+  @@index([itemId, createdAt])
+  @@index([bidderId])
+}
+
+model Administrator {
+  id          String    @id @default(cuid())
+  email       String    @unique
+  displayName String?
+  lastLoginAt DateTime?
+  createdAt   DateTime  @default(now())
+}
+
+model AuditLog {
+  id                 String   @id @default(cuid())
+  administratorEmail String
+  action             String
+  entityType         String
+  entityId           String?
+  changeSummary      String
+  createdAt          DateTime @default(now())
+
+  @@index([createdAt])
+}
+
+model SiteSettings {
+  id            Int      @id @default(1)
+  eventName     String   @default("Riverside Community Gala 2026")
+  // Master kill-switch: when false, the public page shows the items but no
+  // bidding is possible, regardless of each item's status.
+  biddingEnabled Boolean @default(true)
+  closedMessage  String?
+  updatedAt     DateTime @updatedAt
+  updatedBy     String?
+}

@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="204"
+   height="43"
+   viewBox="3 127 204 43"
+   version="1.1"
+   id="svg3631"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ornament.svg">
+  <defs
+     id="defs3625">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,600.949 H 847.559 V 0 H 0 Z"
+         id="path16"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       id="a"
+       x1="104.73"
+       x2="494.51999"
+       y1="335.72"
+       y2="895.84003"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#e00"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#9a0000"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <clipPath
+       id="a-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use12" />
+    </clipPath>
+    <clipPath
+       id="clipPath2004">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2002" />
+    </clipPath>
+    <clipPath
+       id="clipPath2008">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2006" />
+    </clipPath>
+    <clipPath
+       id="clipPath2012">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2010" />
+    </clipPath>
+    <clipPath
+       id="clipPath2016">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2014" />
+    </clipPath>
+    <clipPath
+       id="clipPath2020">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2018" />
+    </clipPath>
+    <clipPath
+       id="clipPath2024">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2022" />
+    </clipPath>
+    <clipPath
+       id="clipPath2028">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2026" />
+    </clipPath>
+    <clipPath
+       id="clipPath2032">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2030" />
+    </clipPath>
+    <clipPath
+       id="clipPath2036">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2034" />
+    </clipPath>
+    <clipPath
+       id="clipPath2040">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2038" />
+    </clipPath>
+    <clipPath
+       id="clipPath2044">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2042" />
+    </clipPath>
+    <clipPath
+       id="clipPath2048">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2046" />
+    </clipPath>
+    <clipPath
+       id="clipPath2052">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2050" />
+    </clipPath>
+    <clipPath
+       id="clipPath2056">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2054" />
+    </clipPath>
+    <clipPath
+       id="clipPath2060">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2058" />
+    </clipPath>
+    <clipPath
+       id="clipPath2064">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2062" />
+    </clipPath>
+    <clipPath
+       id="clipPath2068">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2066" />
+    </clipPath>
+    <clipPath
+       id="clipPath2072">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2070" />
+    </clipPath>
+    <clipPath
+       id="clipPath2076">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2074" />
+    </clipPath>
+    <clipPath
+       id="clipPath2080">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2078" />
+    </clipPath>
+    <clipPath
+       id="clipPath2084">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2082" />
+    </clipPath>
+    <clipPath
+       id="clipPath2088">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2086" />
+    </clipPath>
+    <clipPath
+       id="clipPath2092">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2090" />
+    </clipPath>
+    <clipPath
+       id="clipPath2096">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2094" />
+    </clipPath>
+    <clipPath
+       id="clipPath2100">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2098" />
+    </clipPath>
+    <clipPath
+       id="clipPath2104">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2102" />
+    </clipPath>
+    <clipPath
+       id="clipPath2108">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2106" />
+    </clipPath>
+    <clipPath
+       id="clipPath2112">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2110" />
+    </clipPath>
+    <clipPath
+       id="clipPath2116">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2114" />
+    </clipPath>
+    <clipPath
+       id="clipPath2120">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2118" />
+    </clipPath>
+    <clipPath
+       id="clipPath2124">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2122" />
+    </clipPath>
+    <clipPath
+       id="clipPath2128">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2126" />
+    </clipPath>
+    <clipPath
+       id="clipPath2132">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2130" />
+    </clipPath>
+    <clipPath
+       id="a-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use12-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath2004-8">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2002-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath2008-0">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2006-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath2012-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2010-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath2016-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2014-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath2020-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2018-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath2024-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2022-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath2028-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2026-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath2032-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2030-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath2036-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2034-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath2040-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2038-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath2044-0">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2042-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath2048-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2046-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath2052-7">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2050-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath2056-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2054-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath2060-5">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2058-1" />
+    </clipPath>
+    <clipPath
+       id="clipPath2064-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2062-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath2068-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2066-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath2072-2">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2070-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath2076-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2074-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath2080-7">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2078-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath2084-2">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2082-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath2088-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2086-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath2092-8">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2090-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath2096-6">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2094-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath2100-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2098-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath2104-8">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2102-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath2108-7">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2106-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath2112-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2110-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath2116-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2114-8" />
+    </clipPath>
+    <clipPath
+       id="clipPath2120-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2118-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath2124-6">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2122-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath2128-5">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2126-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath2132-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2130-9" />
+    </clipPath>
+    <clipPath
+       id="a-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use12-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath2885">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2883" />
+    </clipPath>
+    <clipPath
+       id="clipPath2889">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2887" />
+    </clipPath>
+    <clipPath
+       id="clipPath2893">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2891" />
+    </clipPath>
+    <clipPath
+       id="clipPath2897">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2895" />
+    </clipPath>
+    <clipPath
+       id="clipPath2901">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2899" />
+    </clipPath>
+    <clipPath
+       id="clipPath2905">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2903" />
+    </clipPath>
+    <clipPath
+       id="clipPath2909">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2907" />
+    </clipPath>
+    <clipPath
+       id="clipPath2913">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2911" />
+    </clipPath>
+    <clipPath
+       id="clipPath2917">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2915" />
+    </clipPath>
+    <clipPath
+       id="clipPath2921">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2919" />
+    </clipPath>
+    <clipPath
+       id="clipPath2925">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2923" />
+    </clipPath>
+    <clipPath
+       id="clipPath2929">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2927" />
+    </clipPath>
+    <clipPath
+       id="clipPath2933">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2931" />
+    </clipPath>
+    <clipPath
+       id="clipPath2937">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2935" />
+    </clipPath>
+    <clipPath
+       id="clipPath2941">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2939" />
+    </clipPath>
+    <clipPath
+       id="clipPath2945">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2943" />
+    </clipPath>
+    <clipPath
+       id="clipPath2949">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2947" />
+    </clipPath>
+    <clipPath
+       id="clipPath2953">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2951" />
+    </clipPath>
+    <clipPath
+       id="clipPath2957">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2955" />
+    </clipPath>
+    <clipPath
+       id="clipPath2961">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2959" />
+    </clipPath>
+    <clipPath
+       id="clipPath2965">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2963" />
+    </clipPath>
+    <clipPath
+       id="clipPath2969">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2967" />
+    </clipPath>
+    <clipPath
+       id="clipPath2973">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2971" />
+    </clipPath>
+    <clipPath
+       id="clipPath2977">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2975" />
+    </clipPath>
+    <clipPath
+       id="clipPath2981">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2979" />
+    </clipPath>
+    <clipPath
+       id="clipPath2985">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2983" />
+    </clipPath>
+    <clipPath
+       id="clipPath2989">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2987" />
+    </clipPath>
+    <clipPath
+       id="clipPath2993">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2991" />
+    </clipPath>
+    <clipPath
+       id="clipPath2997">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2995" />
+    </clipPath>
+    <clipPath
+       id="clipPath3001">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use2999" />
+    </clipPath>
+    <clipPath
+       id="clipPath3005">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3003" />
+    </clipPath>
+    <clipPath
+       id="clipPath3009">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3007" />
+    </clipPath>
+    <clipPath
+       id="clipPath3013">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3011" />
+    </clipPath>
+    <clipPath
+       id="a-0">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use12-1" />
+    </clipPath>
+    <clipPath
+       id="clipPath3061">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3059" />
+    </clipPath>
+    <clipPath
+       id="clipPath3065">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3063" />
+    </clipPath>
+    <clipPath
+       id="clipPath3069">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3067" />
+    </clipPath>
+    <clipPath
+       id="clipPath3073">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3071" />
+    </clipPath>
+    <clipPath
+       id="clipPath3077">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3075" />
+    </clipPath>
+    <clipPath
+       id="clipPath3081">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3079" />
+    </clipPath>
+    <clipPath
+       id="clipPath3085">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3083" />
+    </clipPath>
+    <clipPath
+       id="clipPath3089">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3087" />
+    </clipPath>
+    <clipPath
+       id="clipPath3093">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3091" />
+    </clipPath>
+    <clipPath
+       id="clipPath3097">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3095" />
+    </clipPath>
+    <clipPath
+       id="clipPath3101">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3099" />
+    </clipPath>
+    <clipPath
+       id="clipPath3105">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3103" />
+    </clipPath>
+    <clipPath
+       id="clipPath3109">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3107" />
+    </clipPath>
+    <clipPath
+       id="clipPath3113">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3111" />
+    </clipPath>
+    <clipPath
+       id="clipPath3117">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3115" />
+    </clipPath>
+    <clipPath
+       id="clipPath3121">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3119" />
+    </clipPath>
+    <clipPath
+       id="clipPath3125">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3123" />
+    </clipPath>
+    <clipPath
+       id="clipPath3129">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3127" />
+    </clipPath>
+    <clipPath
+       id="clipPath3133">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3131" />
+    </clipPath>
+    <clipPath
+       id="clipPath3137">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3135" />
+    </clipPath>
+    <clipPath
+       id="clipPath3141">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3139" />
+    </clipPath>
+    <clipPath
+       id="clipPath3145">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3143" />
+    </clipPath>
+    <clipPath
+       id="clipPath3149">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3147" />
+    </clipPath>
+    <clipPath
+       id="clipPath3153">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3151" />
+    </clipPath>
+    <clipPath
+       id="clipPath3157">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3155" />
+    </clipPath>
+    <clipPath
+       id="clipPath3161">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3159" />
+    </clipPath>
+    <clipPath
+       id="clipPath3165">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3163" />
+    </clipPath>
+    <clipPath
+       id="clipPath3169">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3167" />
+    </clipPath>
+    <clipPath
+       id="clipPath3173">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3171" />
+    </clipPath>
+    <clipPath
+       id="clipPath3177">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3175" />
+    </clipPath>
+    <clipPath
+       id="clipPath3181">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3179" />
+    </clipPath>
+    <clipPath
+       id="clipPath3185">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3183" />
+    </clipPath>
+    <clipPath
+       id="clipPath3189">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use3187" />
+    </clipPath>
+    <clipPath
+       id="a-7">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use12-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath4117">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4115" />
+    </clipPath>
+    <clipPath
+       id="clipPath4121">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4119" />
+    </clipPath>
+    <clipPath
+       id="clipPath4125">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4123" />
+    </clipPath>
+    <clipPath
+       id="clipPath4129">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4127" />
+    </clipPath>
+    <clipPath
+       id="clipPath4133">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4131" />
+    </clipPath>
+    <clipPath
+       id="clipPath4137">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4135" />
+    </clipPath>
+    <clipPath
+       id="clipPath4141">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4139" />
+    </clipPath>
+    <clipPath
+       id="clipPath4145">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4143" />
+    </clipPath>
+    <clipPath
+       id="clipPath4149">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4147" />
+    </clipPath>
+    <clipPath
+       id="clipPath4153">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4151" />
+    </clipPath>
+    <clipPath
+       id="clipPath4157">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4155" />
+    </clipPath>
+    <clipPath
+       id="clipPath4161">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4159" />
+    </clipPath>
+    <clipPath
+       id="clipPath4165">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4163" />
+    </clipPath>
+    <clipPath
+       id="clipPath4169">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4167" />
+    </clipPath>
+    <clipPath
+       id="clipPath4173">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4171" />
+    </clipPath>
+    <clipPath
+       id="clipPath4177">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4175" />
+    </clipPath>
+    <clipPath
+       id="clipPath4181">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4179" />
+    </clipPath>
+    <clipPath
+       id="clipPath4185">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4183" />
+    </clipPath>
+    <clipPath
+       id="clipPath4189">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4187" />
+    </clipPath>
+    <clipPath
+       id="clipPath4193">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4191" />
+    </clipPath>
+    <clipPath
+       id="clipPath4197">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4195" />
+    </clipPath>
+    <clipPath
+       id="clipPath4201">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4199" />
+    </clipPath>
+    <clipPath
+       id="clipPath4205">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4203" />
+    </clipPath>
+    <clipPath
+       id="clipPath4209">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4207" />
+    </clipPath>
+    <clipPath
+       id="clipPath4213">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4211" />
+    </clipPath>
+    <clipPath
+       id="clipPath4217">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4215" />
+    </clipPath>
+    <clipPath
+       id="clipPath4221">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4219" />
+    </clipPath>
+    <clipPath
+       id="clipPath4225">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4223" />
+    </clipPath>
+    <clipPath
+       id="clipPath4229">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4227" />
+    </clipPath>
+    <clipPath
+       id="clipPath4233">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4231" />
+    </clipPath>
+    <clipPath
+       id="clipPath4237">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4235" />
+    </clipPath>
+    <clipPath
+       id="clipPath4241">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4239" />
+    </clipPath>
+    <clipPath
+       id="clipPath4245">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4243" />
+    </clipPath>
+    <clipPath
+       id="a-44">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use12-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath4117-5">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4115-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath4121-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4119-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath4125-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4123-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4129-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4127-7" />
+    </clipPath>
+    <clipPath
+       id="clipPath4133-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4131-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath4137-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4135-1" />
+    </clipPath>
+    <clipPath
+       id="clipPath4141-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4139-7" />
+    </clipPath>
+    <clipPath
+       id="clipPath4145-5">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4143-1" />
+    </clipPath>
+    <clipPath
+       id="clipPath4149-8">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4147-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath4153-6">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4151-7" />
+    </clipPath>
+    <clipPath
+       id="clipPath4157-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4155-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4161-6">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4159-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath4165-5">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4163-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath4169-6">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4167-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4173-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4171-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath4177-5">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4175-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4181-8">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4179-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath4185-8">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4183-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath4189-6">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4187-1" />
+    </clipPath>
+    <clipPath
+       id="clipPath4193-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4191-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath4197-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4195-1" />
+    </clipPath>
+    <clipPath
+       id="clipPath4201-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4199-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath4205-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4203-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath4209-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4207-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4213-0">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4211-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath4217-4">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4215-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath4221-3">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4219-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath4225-9">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4223-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4229-8">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4227-6" />
+    </clipPath>
+    <clipPath
+       id="clipPath4233-6">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4231-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath4237-1">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4235-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath4241-7">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4239-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath4245-0">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4243-4" />
+    </clipPath>
+    <rect
+       height="364.36"
+       width="375.5"
+       y="48.715"
+       x="110"
+       id="e" />
+    <clipPath
+       id="a-95">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use12-8" />
+    </clipPath>
+    <clipPath
+       id="clipPath4293">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4291" />
+    </clipPath>
+    <clipPath
+       id="clipPath4297">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4295" />
+    </clipPath>
+    <clipPath
+       id="clipPath4301">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4299" />
+    </clipPath>
+    <clipPath
+       id="clipPath4305">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4303" />
+    </clipPath>
+    <clipPath
+       id="clipPath4309">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4307" />
+    </clipPath>
+    <clipPath
+       id="clipPath4313">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4311" />
+    </clipPath>
+    <clipPath
+       id="clipPath4317">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4315" />
+    </clipPath>
+    <clipPath
+       id="clipPath4321">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4319" />
+    </clipPath>
+    <clipPath
+       id="clipPath4325">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4323" />
+    </clipPath>
+    <clipPath
+       id="clipPath4329">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4327" />
+    </clipPath>
+    <clipPath
+       id="clipPath4333">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4331" />
+    </clipPath>
+    <clipPath
+       id="clipPath4337">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4335" />
+    </clipPath>
+    <clipPath
+       id="clipPath4341">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4339" />
+    </clipPath>
+    <clipPath
+       id="clipPath4345">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4343" />
+    </clipPath>
+    <clipPath
+       id="clipPath4349">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4347" />
+    </clipPath>
+    <clipPath
+       id="clipPath4353">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4351" />
+    </clipPath>
+    <clipPath
+       id="clipPath4357">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4355" />
+    </clipPath>
+    <clipPath
+       id="clipPath4361">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4359" />
+    </clipPath>
+    <clipPath
+       id="clipPath4365">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4363" />
+    </clipPath>
+    <clipPath
+       id="clipPath4369">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4367" />
+    </clipPath>
+    <clipPath
+       id="clipPath4373">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4371" />
+    </clipPath>
+    <clipPath
+       id="clipPath4377">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4375" />
+    </clipPath>
+    <clipPath
+       id="clipPath4381">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4379" />
+    </clipPath>
+    <clipPath
+       id="clipPath4385">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4383" />
+    </clipPath>
+    <clipPath
+       id="clipPath4389">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4387" />
+    </clipPath>
+    <clipPath
+       id="clipPath4393">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4391" />
+    </clipPath>
+    <clipPath
+       id="clipPath4397">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4395" />
+    </clipPath>
+    <clipPath
+       id="clipPath4401">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4399" />
+    </clipPath>
+    <clipPath
+       id="clipPath4405">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4403" />
+    </clipPath>
+    <clipPath
+       id="clipPath4409">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4407" />
+    </clipPath>
+    <clipPath
+       id="clipPath4413">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4411" />
+    </clipPath>
+    <clipPath
+       id="clipPath4417">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4415" />
+    </clipPath>
+    <clipPath
+       id="clipPath4421">
+      <use
+         overflow="visible"
+         xlink:href="#e"
+         id="use4419" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18-9">
+      <path
+         d="M 0,788.682 H 606.392 V 0 H 0 Z"
+         id="path16-1"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18-8">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path16-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1446">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path1444"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2298">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path2296"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2494">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path2492"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3154">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path3152"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3838">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path3836"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4630">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path4628"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5050">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path5048"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5474">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path5472"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6738">
+      <path
+         d="M 0,841.89 H 1190.55 V 0 H 0 Z"
+         id="path6736"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="ao">
+      <feGaussianBlur
+         stdDeviation="1.187731"
+         id="feGaussianBlur20" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="aq">
+      <feGaussianBlur
+         stdDeviation="2.436623"
+         id="feGaussianBlur14" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="am">
+      <feGaussianBlur
+         stdDeviation="5.033815"
+         id="feGaussianBlur11" />
+    </filter>
+    <filter
+       id="b"
+       x="-0.0041371142"
+       y="-0.027728949"
+       width="1.0082742"
+       height="1.0554579">
+      <feGaussianBlur
+         stdDeviation="0.61072424"
+         id="feGaussianBlur2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.18503726"
+     inkscape:cx="1508.1137"
+     inkscape:cy="336.50233"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1005"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="72.922013,252.88982"
+       orientation="0,1"
+       id="guide4178"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="99.099147,43.94019"
+       orientation="0,1"
+       id="guide4180"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3628">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11993"
+       transform="translate(0.01320793,-14.655723)">
+      <g
+         transform="matrix(0.21517631,0,0,0.21517631,-34.287308,62.876626)"
+         id="g1005">
+        <path
+           style="fill:#000000;stroke-width:0.86268681"
+           d="m 311.02135,551.64932 c -34.63882,-1.93506 -64.07633,-10.91019 -84.13908,-25.65311 -9.03855,-6.64191 -19.99147,-18.34728 -25.4166,-27.1628 -5.91696,-9.61484 -12.41602,-29.4208 -13.73151,-41.84721 -1.08831,-10.31404 1.90525,-22.55845 5.80933,-30.49943 10.97193,-22.14872 36.49889,-38.79436 67.44202,-43.97752 9.74842,-1.63296 31.70049,-1.39154 40.37036,0.44404 28.17919,5.96578 48.26635,20.81106 60.0938,44.41159 1.75357,3.49906 2.86791,6.67404 2.4762,7.05543 -0.39155,0.38139 -2.69629,1.47075 -5.12155,2.42084 l -4.40958,1.72739 -2.06058,-4.44563 c -9.93153,-21.42708 -27.94732,-34.95469 -53.82171,-40.41329 -6.93813,-1.46374 -28.65607,-1.46542 -36.23286,0 -35.19225,6.79345 -60.41289,27.51556 -63.38232,52.07684 -0.97717,8.08291 0.9447,18.42391 5.33499,28.70575 11.25951,25.05233 46.15386,41.1024 69.69357,45.03152 15.20498,2.37995 39.9856,2.02017 59.52538,-0.86414 34.32971,-5.0674 61.41807,-13.62172 92.73886,-29.28631 15.04123,-7.52255 36.32174,-19.04727 37.84041,-20.49276 0.41513,-0.39521 -0.0365,-4.46459 -1.01962,-9.19494 -0.97038,-4.66727 -2.00481,-10.81519 -2.29885,-13.66205 -0.68244,-6.60907 1.47145,-22.01598 3.85525,-27.57722 4.5873,-10.70161 15.66735,-23.38711 25.2791,-28.94197 15.75897,-9.10738 41.80939,-12.00889 61.85888,-6.88978 12.29043,3.13801 30.64045,11.42923 37.8477,17.1009 2.01533,1.58595 2.15362,1.56455 11.2149,-1.7302 10.90036,-3.96336 27.56677,-8.66319 38.93721,-10.97992 17.89272,-3.64569 29.85131,-4.7387 52.19255,-4.77049 18.52366,-0.0267 23.45424,0.25973 34.93883,2.02789 24.72728,3.80698 48.10057,12.01239 64.67852,22.706 8.74304,5.63975 18.11071,12.82266 21.47941,16.46982 l 2.04598,2.215 17.28753,-8.65197 c 19.83548,-9.92719 31.25788,-14.76867 48.92948,-20.73937 27.5397,-9.30473 56.8236,-14.34105 84.9747,-14.61432 21.1907,-0.29607 30.0828,0.69184 64.91615,9.15425 18.3917,5.21585 37.2226,15.40507 52.0414,28.15927 12.0488,10.57952 21.3956,27.50166 23.2979,41.44378 1.8127,14.45653 -1.1217,26.64432 -9.3138,38.68506 -13.0206,19.13728 -37.3013,32.62358 -63.6553,35.35643 -12.5581,1.30215 -23.4633,-0.0928 -34.93675,-4.46902 -5.4843,-2.09179 -17.2436,-9.35573 -17.2057,-10.62828 0.014,-0.47449 1.4648,-2.4957 3.2238,-4.49167 l 3.1984,-3.62884 5.3423,3.40272 c 2.9384,1.87157 8.37325,4.47357 12.07765,5.78239 29.2319,10.41557 58.8593,-0.84521 78.4415,-22.57487 7.4866,-8.4817 10.3415,-13.93343 11.6236,-22.19637 2.6579,-27.42477 -11.0752,-42.88339 -30.7498,-53.0261 -12.7356,-6.53303 -26.4787,-10.68618 -43.9532,-13.28243 -11.5738,-1.7196 -15.081,-1.87023 -33.21345,-1.42703 -40.9936,1.00201 -63.2437,6.26936 -104.3764,24.71002 -10.6709,4.78396 -24.8406,11.6748 -31.4881,15.3129 -6.6475,3.63826 -13.83322,7.5678 -15.96838,8.73251 l -3.88205,2.11755 -0.0942,9.21213 c -0.0767,7.55588 -0.51602,10.47942 -2.44175,16.26145 -8.6705,26.03527 -38.1736,46.82017 -71.05046,50.055 -13.40478,1.31893 -31.07453,-1.58764 -40.65956,-6.68828 -2.95097,-1.57031 -2.97643,-1.56757 -9.05819,0.98826 -17.76482,7.46551 -47.38278,15.95142 -68.21244,19.54371 -46.73351,5.7953 -99.25497,5.8421 -138.0299,-22.13947 -6.60213,-4.85677 -16.89232,-14.98131 -19.91478,-19.59422 l -1.42788,-2.17921 -2.7003,1.6359 c -7.89032,4.78016 -31.83056,16.88917 -42.38392,21.43794 -20.42309,8.80288 -44.97287,16.14969 -68.20752,20.41186 -19.02074,3.57146 -38.88376,4.90694 -56.45073,3.92436 z M 771.2648,520.64355 c 24.44034,-7.83588 43.75681,-18.64932 48.72991,-45.11102 0.50269,-2.94613 1.10662,-6.23 1.34208,-7.29755 0.23545,-1.06761 0.0554,-1.9411 -0.39977,-1.9411 -0.45519,0 -10.65313,5.94923 -22.66187,13.22054 -23.48661,14.22094 -41.13238,24.44062 -58.88246,34.10212 -11.06861,6.02471 -11.14515,6.08723 -8.62685,7.0557 5.22644,2.01007 9.76568,2.46497 21.51988,2.15669 8.89101,-0.23313 13.89856,-0.80977 18.97908,-2.18538 z m -160.8911,-2.04908 c 22.2708,-3.35439 43.99934,-9.08885 63.76342,-16.82798 l 6.39488,-2.50405 -12.44022,-12.81789 c -6.84215,-7.04982 -16.31779,-16.87436 -21.05705,-21.83238 -4.73926,-4.95802 -13.47108,-13.47389 -19.40381,-18.92407 -5.93288,-5.45011 -12.00636,-11.03682 -13.49669,-12.41483 l -2.70948,-2.50553 -11.18836,5.23165 c -14.6948,6.87112 -47.18346,25.07808 -73.54328,41.2143 -5.58594,3.56262 -23.8985,14.6903 -29.90084,18.41154 -1.67315,1.01984 4.77721,5.78555 13.07839,10.70288 9.93897,5.88749 25.74096,11.10292 39.2523,12.95519 20.18854,3.13963 41.20055,2.18287 61.25074,-0.68883 z m 98.11341,-32.91249 c 21.53216,-11.1495 26.8461,-14.13941 63.38808,-35.66596 l 31.66696,-18.65466 -2.33561,-1.90209 c -1.28461,-1.0462 -6.80011,-4.20941 -12.25661,-7.02939 -12.0999,-6.25323 -26.42621,-10.53302 -43.99704,-13.14343 -10.98253,-1.63169 -14.9828,-1.80457 -32.78214,-1.41729 -22.95815,0.49953 -35.2504,1.94257 -53.48656,6.27884 -11.78676,2.80272 -35.58991,10.6593 -35.14356,11.59964 0.1126,0.23721 6.80426,6.68905 14.8704,14.3374 15.46304,15.6745 31.87224,32.33431 45.00002,46.05067 4.06378,4.2703 7.79744,7.76417 8.29711,7.76417 0.49961,0 8.05016,-3.69795 16.77895,-8.2179 z M 508.1453,443.40455 c 12.33646,-7.21847 33.28469,-18.56456 46.55181,-25.21334 l 24.12196,-12.08894 -2.98612,-1.84084 C 523.89677,372.13858 462.8838,413.83648 474.0728,459.56434 l 0.916,3.19127 5.36332,-3.11317 c 2.94978,-1.71232 15.45679,-9.01927 27.79318,-16.23789 z"
+           id="path19078"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccscccscccccccccccccccccscccccccccccccccccccccsccccccsccccccssccccccscscccccccsccccccsccccccccsccccsccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>

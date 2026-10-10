@@ -1,0 +1,50 @@
+# syntax=docker/dockerfile:1
+#
+# Uses Debian-based node:22-slim rather than node:22-alpine: several
+# dependencies (lightningcss via Tailwind v4, @tailwindcss/oxide) ship
+# platform-specific native binaries, and the lockfile generated on this
+# glibc host only pulls the "-gnu" variant, not the "-musl" one Alpine
+# needs. Slim avoids the whole glibc/musl split.
+FROM node:22-slim AS base
+WORKDIR /app
+RUN apt-get update -y && apt-get install -y --no-install-recommends openssl \
+  && rm -rf /var/lib/apt/lists/*
+
+FROM base AS deps
+COPY package.json package-lock.json* ./
+RUN npm ci
+
+# Production-only node_modules, used so the runtime image has a full, correct
+# dependency closure for `prisma migrate deploy` at container start.
+FROM base AS prod-deps
+COPY package.json package-lock.json* ./
+RUN npm ci --omit=dev
+
+FROM base AS builder
+COPY --from=deps /app/node_modules ./node_modules
+COPY . .
+ENV NEXT_TELEMETRY_DISABLED=1
+RUN npx prisma generate
+RUN npm run build
+
+FROM base AS runner
+ENV NODE_ENV=production
+ENV NEXT_TELEMETRY_DISABLED=1
+RUN groupadd --system --gid 1001 nodejs \
+  && useradd --system --uid 1001 --gid nodejs nextjs
+
+COPY --from=prod-deps /app/node_modules ./node_modules
+COPY --from=builder /app/node_modules/.prisma ./node_modules/.prisma
+COPY --from=builder /app/public ./public
+COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
+COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
+COPY --from=builder /app/prisma ./prisma
+COPY docker/entrypoint.sh ./entrypoint.sh
+RUN chmod +x ./entrypoint.sh
+
+USER nextjs
+EXPOSE 3000
+ENV PORT=3000
+ENV HOSTNAME=0.0.0.0
+
+ENTRYPOINT ["./entrypoint.sh"]
