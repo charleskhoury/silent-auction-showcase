@@ -31,7 +31,7 @@ jobs:
       - name: Build image for scanning
         run: docker build -t silent-auction-showcase:scan -f docker/Dockerfile .
       - name: Scan image
-        uses: aquasecurity/trivy-action@0.28.0
+        uses: aquasecurity/trivy-action@v0.36.0
         with:
           image-ref: silent-auction-showcase:scan
           format: table
