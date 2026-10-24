@@ -29,8 +29,8 @@
     "next-auth": "5.0.0-beta.32",
     "pino": "^9.6.0",
     "prisma": "^6.1.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "zod": "^3.24.1"
   },
   "devDependencies": {
@@ -39,7 +39,7 @@
     "@types/node": "^22.10.5",
     "@types/react": "^19.0.5",
     "@types/react-dom": "^19.0.2",
-    "@typescript-eslint/eslint-plugin": "^8.19.1",
+    "@typescript-eslint/eslint-plugin": "^8.72.0",
     "@typescript-eslint/parser": "^8.19.1",
     "eslint": "^9.18.0",
     "eslint-config-next": "^15.1.4",
